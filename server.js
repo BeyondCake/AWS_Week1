@@ -9,13 +9,13 @@ const houses = [
     {
         id: 1,
         address: {
-            streetNumber: 555,
-            streetName: "Seymour St",
+            streetNumber: 615,
+            streetName: "Butt St.",
             city: "Vancouver",
             province: "BC",
-            postalCode: "V6B 3H6"
+            postalCode: "V5N 3K9"
         },
-        listingPrice: 518446000
+        listingPrice: 245556
     }
 ]
 
